@@ -1,0 +1,717 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should render correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Home
+    getAllPokemonList={[Function]}
+    pokemons={
+      Object {
+        "data": Object {
+          "count": 20,
+          "next": "https://pokeapi.co/api/v2/pokemon/?offset=40&limit=20",
+          "previous": "https://pokeapi.co/api/v2/pokemon/?offset=0&limit=20",
+          "results": Array [
+            Object {
+              "name": "spearow",
+              "url": "https://pokeapi.co/api/v2/pokemon/21/",
+            },
+            Object {
+              "name": "fearow",
+              "url": "https://pokeapi.co/api/v2/pokemon/22/",
+            },
+            Object {
+              "name": "ekans",
+              "url": "https://pokeapi.co/api/v2/pokemon/23/",
+            },
+            Object {
+              "name": "arbok",
+              "url": "https://pokeapi.co/api/v2/pokemon/24/",
+            },
+            Object {
+              "name": "pikachu",
+              "url": "https://pokeapi.co/api/v2/pokemon/25/",
+            },
+            Object {
+              "name": "raichu",
+              "url": "https://pokeapi.co/api/v2/pokemon/26/",
+            },
+            Object {
+              "name": "sandshrew",
+              "url": "https://pokeapi.co/api/v2/pokemon/27/",
+            },
+            Object {
+              "name": "sandslash",
+              "url": "https://pokeapi.co/api/v2/pokemon/28/",
+            },
+            Object {
+              "name": "nidoran-f",
+              "url": "https://pokeapi.co/api/v2/pokemon/29/",
+            },
+            Object {
+              "name": "nidorina",
+              "url": "https://pokeapi.co/api/v2/pokemon/30/",
+            },
+            Object {
+              "name": "nidoqueen",
+              "url": "https://pokeapi.co/api/v2/pokemon/31/",
+            },
+            Object {
+              "name": "nidoran-m",
+              "url": "https://pokeapi.co/api/v2/pokemon/32/",
+            },
+            Object {
+              "name": "nidorino",
+              "url": "https://pokeapi.co/api/v2/pokemon/33/",
+            },
+            Object {
+              "name": "nidoking",
+              "url": "https://pokeapi.co/api/v2/pokemon/34/",
+            },
+            Object {
+              "name": "clefairy",
+              "url": "https://pokeapi.co/api/v2/pokemon/35/",
+            },
+            Object {
+              "name": "clefable",
+              "url": "https://pokeapi.co/api/v2/pokemon/36/",
+            },
+            Object {
+              "name": "vulpix",
+              "url": "https://pokeapi.co/api/v2/pokemon/37/",
+            },
+            Object {
+              "name": "ninetales",
+              "url": "https://pokeapi.co/api/v2/pokemon/38/",
+            },
+            Object {
+              "name": "jigglypuff",
+              "url": "https://pokeapi.co/api/v2/pokemon/39/",
+            },
+            Object {
+              "name": "wigglytuff",
+              "url": "https://pokeapi.co/api/v2/pokemon/40/",
+            },
+          ],
+        },
+        "error": null,
+        "loading": false,
+      }
+    }
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <div
+          className="container"
+        >
+          <div
+            className="homeBanner"
+          >
+            <img
+              alt="banner"
+              src="banner.png"
+            />
+            <React.Fragment>
+              <DotLoader />
+            </React.Fragment>
+          </div>
+        </div>,
+        false,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <div
+              className="homeBanner"
+            >
+              <img
+                alt="banner"
+                src="banner.png"
+              />
+              <React.Fragment>
+                <DotLoader />
+              </React.Fragment>
+            </div>,
+            false,
+          ],
+          "className": "container",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <img
+                  alt="banner"
+                  src="banner.png"
+                />,
+                <React.Fragment>
+                  <DotLoader />
+                </React.Fragment>,
+              ],
+              "className": "homeBanner",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "banner",
+                  "src": "banner.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {
+                  "children": <DotLoader />,
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {},
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                "type": Symbol(react.fragment),
+              },
+            ],
+            "type": "div",
+          },
+          false,
+        ],
+        "type": "div",
+      },
+      false,
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <div
+            className="container"
+          >
+            <div
+              className="homeBanner"
+            >
+              <img
+                alt="banner"
+                src="banner.png"
+              />
+              <React.Fragment>
+                <DotLoader />
+              </React.Fragment>
+            </div>
+          </div>,
+          false,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <div
+                className="homeBanner"
+              >
+                <img
+                  alt="banner"
+                  src="banner.png"
+                />
+                <React.Fragment>
+                  <DotLoader />
+                </React.Fragment>
+              </div>,
+              false,
+            ],
+            "className": "container",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <img
+                    alt="banner"
+                    src="banner.png"
+                  />,
+                  <React.Fragment>
+                    <DotLoader />
+                  </React.Fragment>,
+                ],
+                "className": "homeBanner",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "banner",
+                    "src": "banner.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "function",
+                  "props": Object {
+                    "children": <DotLoader />,
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "class",
+                    "props": Object {},
+                    "ref": null,
+                    "rendered": null,
+                    "type": [Function],
+                  },
+                  "type": Symbol(react.fragment),
+                },
+              ],
+              "type": "div",
+            },
+            false,
+          ],
+          "type": "div",
+        },
+        false,
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromError": true,
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    Symbol(enzyme.__providerValues__): undefined,
+  },
+  Symbol(enzyme.__providerValues__): Map {},
+  Symbol(enzyme.__childContext__): null,
+}
+`;
+
+exports[`Home should render correctly in "debug" mode 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Home
+    getAllPokemonList={[Function]}
+    pokemons={
+      Object {
+        "data": Object {
+          "count": 20,
+          "next": "https://pokeapi.co/api/v2/pokemon/?offset=40&limit=20",
+          "previous": "https://pokeapi.co/api/v2/pokemon/?offset=0&limit=20",
+          "results": Array [
+            Object {
+              "name": "spearow",
+              "url": "https://pokeapi.co/api/v2/pokemon/21/",
+            },
+            Object {
+              "name": "fearow",
+              "url": "https://pokeapi.co/api/v2/pokemon/22/",
+            },
+            Object {
+              "name": "ekans",
+              "url": "https://pokeapi.co/api/v2/pokemon/23/",
+            },
+            Object {
+              "name": "arbok",
+              "url": "https://pokeapi.co/api/v2/pokemon/24/",
+            },
+            Object {
+              "name": "pikachu",
+              "url": "https://pokeapi.co/api/v2/pokemon/25/",
+            },
+            Object {
+              "name": "raichu",
+              "url": "https://pokeapi.co/api/v2/pokemon/26/",
+            },
+            Object {
+              "name": "sandshrew",
+              "url": "https://pokeapi.co/api/v2/pokemon/27/",
+            },
+            Object {
+              "name": "sandslash",
+              "url": "https://pokeapi.co/api/v2/pokemon/28/",
+            },
+            Object {
+              "name": "nidoran-f",
+              "url": "https://pokeapi.co/api/v2/pokemon/29/",
+            },
+            Object {
+              "name": "nidorina",
+              "url": "https://pokeapi.co/api/v2/pokemon/30/",
+            },
+            Object {
+              "name": "nidoqueen",
+              "url": "https://pokeapi.co/api/v2/pokemon/31/",
+            },
+            Object {
+              "name": "nidoran-m",
+              "url": "https://pokeapi.co/api/v2/pokemon/32/",
+            },
+            Object {
+              "name": "nidorino",
+              "url": "https://pokeapi.co/api/v2/pokemon/33/",
+            },
+            Object {
+              "name": "nidoking",
+              "url": "https://pokeapi.co/api/v2/pokemon/34/",
+            },
+            Object {
+              "name": "clefairy",
+              "url": "https://pokeapi.co/api/v2/pokemon/35/",
+            },
+            Object {
+              "name": "clefable",
+              "url": "https://pokeapi.co/api/v2/pokemon/36/",
+            },
+            Object {
+              "name": "vulpix",
+              "url": "https://pokeapi.co/api/v2/pokemon/37/",
+            },
+            Object {
+              "name": "ninetales",
+              "url": "https://pokeapi.co/api/v2/pokemon/38/",
+            },
+            Object {
+              "name": "jigglypuff",
+              "url": "https://pokeapi.co/api/v2/pokemon/39/",
+            },
+            Object {
+              "name": "wigglytuff",
+              "url": "https://pokeapi.co/api/v2/pokemon/40/",
+            },
+          ],
+        },
+        "error": null,
+        "loading": false,
+      }
+    }
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <div
+          className="container"
+        >
+          <div
+            className="homeBanner"
+          >
+            <img
+              alt="banner"
+              src="banner.png"
+            />
+            <React.Fragment>
+              <DotLoader />
+            </React.Fragment>
+          </div>
+        </div>,
+        false,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <div
+              className="homeBanner"
+            >
+              <img
+                alt="banner"
+                src="banner.png"
+              />
+              <React.Fragment>
+                <DotLoader />
+              </React.Fragment>
+            </div>,
+            false,
+          ],
+          "className": "container",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <img
+                  alt="banner"
+                  src="banner.png"
+                />,
+                <React.Fragment>
+                  <DotLoader />
+                </React.Fragment>,
+              ],
+              "className": "homeBanner",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "banner",
+                  "src": "banner.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {
+                  "children": <DotLoader />,
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {},
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                "type": Symbol(react.fragment),
+              },
+            ],
+            "type": "div",
+          },
+          false,
+        ],
+        "type": "div",
+      },
+      false,
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <div
+            className="container"
+          >
+            <div
+              className="homeBanner"
+            >
+              <img
+                alt="banner"
+                src="banner.png"
+              />
+              <React.Fragment>
+                <DotLoader />
+              </React.Fragment>
+            </div>
+          </div>,
+          false,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <div
+                className="homeBanner"
+              >
+                <img
+                  alt="banner"
+                  src="banner.png"
+                />
+                <React.Fragment>
+                  <DotLoader />
+                </React.Fragment>
+              </div>,
+              false,
+            ],
+            "className": "container",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <img
+                    alt="banner"
+                    src="banner.png"
+                  />,
+                  <React.Fragment>
+                    <DotLoader />
+                  </React.Fragment>,
+                ],
+                "className": "homeBanner",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "banner",
+                    "src": "banner.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "function",
+                  "props": Object {
+                    "children": <DotLoader />,
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "class",
+                    "props": Object {},
+                    "ref": null,
+                    "rendered": null,
+                    "type": [Function],
+                  },
+                  "type": Symbol(react.fragment),
+                },
+              ],
+              "type": "div",
+            },
+            false,
+          ],
+          "type": "div",
+        },
+        false,
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromError": true,
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    Symbol(enzyme.__providerValues__): undefined,
+  },
+  Symbol(enzyme.__providerValues__): Map {},
+  Symbol(enzyme.__childContext__): null,
+}
+`;

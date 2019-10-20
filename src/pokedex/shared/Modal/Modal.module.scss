@@ -1,0 +1,60 @@
+@import '../../commonstyles/variables.scss';
+
+.modal {
+  .content {
+    background: $White;
+    position: fixed;
+    z-index: 20;
+    color: $DBlack;
+    left: 0;
+    bottom: 0;
+    @extend .fullWidth;
+    border-radius: 5px 5px 0 0;
+    overflow-y: auto;
+    max-height: 100%;
+
+    .backArrowIcon {
+      position: fixed;
+      left: 15px;
+      top: 20px;
+      font-size: 25px;
+      z-index: 5;
+    }
+
+    .fixCloseIcon {
+      position: fixed !important;
+      right: 15px !important;
+      top: 20px !important;
+      z-index: 20;
+    }
+
+    .closeIcon {
+      background: $borderCol;
+      color: $DGrey;
+      border-radius: 20px;
+      padding: 6px;
+      font-weight: 100;
+      font-size: 18px;
+      position: absolute;
+      right: 10px;
+      top: 10px;
+    }
+  }
+
+  .backdrop {
+    background: $Black;
+    background: rgba(0, 0, 0, 0.6);
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    @extend .fullWidth;
+    z-index: 20;
+  }
+
+  .fullHeight {
+    height: 100%;
+    padding: 0;
+    border-radius: 0;
+  }
+}

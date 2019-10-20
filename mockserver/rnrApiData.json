@@ -1,0 +1,66 @@
+{
+  "meta": {},
+  "data": {
+    "rnr": {
+      "contractId": "Bjok0z20z38",
+      "avgRating": 4.5,
+      "totalCount": 345686,
+      "ratingMap": {
+        "1": {
+          "count": 1,
+          "percent": 88.666666
+        },
+        "2": {
+          "count": 2,
+          "percent": 33.333332
+        },
+        "3": {
+          "count": 0,
+          "percent": 0.0
+        },
+        "4": {
+          "count": 1,
+          "percent": 16.666666
+        },
+        "5": {
+          "count": 2,
+          "percent": 33.333332
+        }
+      },
+      "reviews": [
+        {
+          "id": "5c5bc6d898708a1afadab47c",
+          "rating": 3,
+          "review": "This is the best shop in noida, all the products are",
+          "userName": "ankit gupta",
+          "userImage": "https://cif-staging.paytm.in:443/get/image/DM14676352312037.jpg",
+          "reviewDate": "07 Feb"
+        },
+        {
+          "id": "5c52e2f298708a1afadab460",
+          "rating": 5,
+          "review": "poor This is the best shop in noida, all the products are",
+          "userName": "Paytm User",
+          "userImage": "https://cif-staging.paytm.in:443/get/image/DM14676352312037.jpg",
+          "reviewDate": "07 Feb"
+        },
+        {
+          "id": "5c52e2f298708a1afadab462",
+          "rating": 5,
+          "review": "poor This is the best shop in noida, all the products are",
+          "userName": "Noor",
+          "userImage": "https://cif-staging.paytm.in:443/get/image/DM14676352312037.jpg",
+          "reviewDate": "07 Feb"
+        },
+        {
+          "id": "5c52e2f298708a1afadab465",
+          "rating": 5,
+          "review": "poor This is the best shop in noida, all the products are",
+          "userName": "Paytm",
+          "userImage": "https://cif-staging.paytm.in:443/get/image/DM14676352312037.jpg",
+          "reviewDate": "07 Feb"
+        }
+      ]
+    }
+  }
+}

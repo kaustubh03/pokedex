@@ -1,0 +1,4930 @@
+{
+  "header": "Vehicle Details",
+  "actionList": [
+    {
+      "title": "Select Make",
+      "config_key": "make",
+      "type": "list",
+      "options": [
+        {
+          "value": "BAJAJ",
+          "title": "BAJAJ",
+          "imageUrl": " http://paytmimg.s3.amazonaws.com/games/ins/Bajaj-2Wheeler.png",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "ASPIRE",
+                  "title": "ASPIRE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "AVENGER",
+                  "title": "AVENGER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "BOXER",
+                  "title": "BOXER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "BYK",
+                  "title": "BYK",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CALIBER",
+                  "title": "CALIBER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CT",
+                  "title": "CT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DISCOVER",
+                  "title": "DISCOVER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ELIMINATOR",
+                  "title": "ELIMINATOR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KAWASAKI",
+                  "title": "KAWASAKI",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KB",
+                  "title": "KB",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KG",
+                  "title": "KG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KTM 200",
+                  "title": "KTM 200",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "LUNA",
+                  "title": "LUNA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "NINJA",
+                  "title": "NINJA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PLATINA",
+                  "title": "PLATINA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PULSAR",
+                  "title": "PULSAR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STRIDE",
+                  "title": "STRIDE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "WIND",
+                  "title": "WIND",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "XCD",
+                  "title": "XCD",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CHETAK",
+                  "title": "CHETAK",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "WAVE",
+                  "title": "WAVE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KTM 390",
+                  "title": "KTM 390",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SAFFIRE",
+                  "title": "SAFFIRE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "BULLET",
+                  "title": "BULLET",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CT 100",
+                  "title": "CT 100",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "AVENGER 220",
+                  "title": "AVENGER 220",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "V",
+                  "title": "V",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPORT",
+                  "title": "SPORT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DOMINAR 400",
+                  "title": "DOMINAR 400",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "AVENGER 150",
+                  "title": "AVENGER 150",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "BRAVO",
+                  "title": "BRAVO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CLASSIC",
+                  "title": "CLASSIC",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CUB",
+                  "title": "CUB",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KRISTAL",
+                  "title": "KRISTAL",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "LEGEND",
+                  "title": "LEGEND",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "M 80",
+                  "title": "M 80",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PRIYA",
+                  "title": "PRIYA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RAVE",
+                  "title": "RAVE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPICE",
+                  "title": "SPICE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPIRIT",
+                  "title": "SPIRIT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STYLE",
+                  "title": "STYLE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SUNNY",
+                  "title": "SUNNY",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SUPER",
+                  "title": "SUPER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KTM",
+                  "title": "KTM",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "AVENGER STREET",
+                  "title": "AVENGER STREET",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DOMINAR D 400 - ABS",
+                  "title": "DOMINAR D 400 - ABS",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "ESCORTS YAMAHA",
+          "title": "ESCORTS YAMAHA",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "CRUX",
+                  "title": "CRUX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ENTICER",
+                  "title": "ENTICER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FAZER",
+                  "title": "FAZER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "LIBERO",
+                  "title": "LIBERO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RAJDOOT",
+                  "title": "RAJDOOT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RX",
+                  "title": "RX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RXG",
+                  "title": "RXG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RXZ",
+                  "title": "RXZ",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "TTR",
+                  "title": "TTR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "YBX",
+                  "title": "YBX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "YD",
+                  "title": "YD",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "FZ 21CB",
+          "title": "FZ 21CB",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "FZ",
+                  "title": "FZ",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "GLOBAL",
+          "title": "GLOBAL",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "ROCK",
+                  "title": "ROCK",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SHARK",
+                  "title": "SHARK",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "XPRESSION",
+                  "title": "XPRESSION",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "HARLEY DAVIDSON",
+          "title": "HARLEY DAVIDSON",
+          "imageUrl": "http://paytmimg.s3.amazonaws.com/games/ins/Harley-2Wheeler.png",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "FAT BOY",
+                  "title": "FAT BOY",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FX DC",
+                  "title": "FX DC",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPORTSTER",
+                  "title": "SPORTSTER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STREET GLIDE",
+                  "title": "STREET GLIDE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STREET 750",
+                  "title": "STREET 750",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "NIGHTSTER",
+                  "title": "NIGHTSTER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CVO ULTRA",
+                  "title": "CVO ULTRA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STREET BOB",
+                  "title": "STREET BOB",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ROAD KING",
+                  "title": "ROAD KING",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "HERO MOTOCORP",
+          "title": "HERO MOTOCORP",
+          "imageUrl": "http://paytmimg.s3.amazonaws.com/games/ins/Hero-2Wheeler.png",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "HF DELUXE",
+                  "title": "HF DELUXE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "HUNK",
+                  "title": "HUNK",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "IGNITOR",
+                  "title": "IGNITOR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "IMPULSE",
+                  "title": "IMPULSE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KARIZMA",
+                  "title": "KARIZMA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PASSION",
+                  "title": "PASSION",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPLENDOR",
+                  "title": "SPLENDOR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SUPER SPLENDOR",
+                  "title": "SUPER SPLENDOR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ACHIEVER",
+                  "title": "ACHIEVER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "AMBITION",
+                  "title": "AMBITION",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CBZ",
+                  "title": "CBZ",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CD DAWN",
+                  "title": "CD DAWN",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CD Delux",
+                  "title": "CD Delux",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CDN-3",
+                  "title": "CDN-3",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "EXTREME",
+                  "title": "EXTREME",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GLAMOUR",
+                  "title": "GLAMOUR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "HF",
+                  "title": "HF",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "HF DAWN",
+                  "title": "HF DAWN",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PLEASURE",
+                  "title": "PLEASURE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DUET",
+                  "title": "DUET",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PASSION PRO",
+                  "title": "PASSION PRO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "XTREME",
+                  "title": "XTREME",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MAESTRO",
+                  "title": "MAESTRO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MAESTRO EDGE",
+                  "title": "MAESTRO EDGE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "HONDA",
+          "title": "HONDA",
+          "imageUrl": "http://paytmimg.s3.amazonaws.com/games/ins/Honda-2Wheeler.png",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "CB",
+                  "title": "CB",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CBF",
+                  "title": "CBF",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CBR",
+                  "title": "CBR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CRB 150 R",
+                  "title": "CRB 150 R",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DAZZLER",
+                  "title": "DAZZLER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DREAM NEO",
+                  "title": "DREAM NEO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DREAM YUGA",
+                  "title": "DREAM YUGA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MEGAPRO",
+                  "title": "MEGAPRO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SHINE",
+                  "title": "SHINE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STUNNER",
+                  "title": "STUNNER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "TRIGGER",
+                  "title": "TRIGGER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "UNICORN",
+                  "title": "UNICORN",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CD DREAM",
+                  "title": "CD DREAM",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CB TWISTER",
+                  "title": "CB TWISTER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "LIVO",
+                  "title": "LIVO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CB HORNET",
+                  "title": "CB HORNET",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CBR1000RR",
+                  "title": "CBR1000RR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CB 600",
+                  "title": "CB 600",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CB SHINE",
+                  "title": "CB SHINE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CB SHINE",
+                  "title": "CB SHINE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CB UNICORN",
+                  "title": "CB UNICORN",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CB1000R",
+                  "title": "CB1000R",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CBF STUNNER",
+                  "title": "CBF STUNNER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "HORNET",
+                  "title": "HORNET",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "P SHINE",
+                  "title": "P SHINE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SP SHINE",
+                  "title": "SP SHINE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CD",
+                  "title": "CD",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GOLD WING",
+                  "title": "GOLD WING",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "NAVI",
+                  "title": "NAVI",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GL 1800",
+                  "title": "GL 1800",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "VTX",
+                  "title": "VTX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ACTIVA",
+                  "title": "ACTIVA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "AVIATOR",
+                  "title": "AVIATOR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DIO",
+                  "title": "DIO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ETERNO",
+                  "title": "ETERNO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CD110 DREAM",
+                  "title": "CD110 DREAM",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MAESTRO",
+                  "title": "MAESTRO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GRAZIA",
+                  "title": "GRAZIA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CLIQ",
+                  "title": "CLIQ",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CRF1000L",
+                  "title": "CRF1000L",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "HYOSUNG",
+          "title": "HYOSUNG",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "GT 650",
+                  "title": "GT 650",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ST 7",
+                  "title": "ST 7",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "AQUILA",
+                  "title": "AQUILA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GT",
+                  "title": "GT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "HERO",
+          "title": "HERO",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "EFFY",
+                  "title": "EFFY",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MAJESTIC",
+                  "title": "MAJESTIC",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PANTHER",
+                  "title": "PANTHER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "POWER",
+                  "title": "POWER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PUCH",
+                  "title": "PUCH",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SMART",
+                  "title": "SMART",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STEP MATIC",
+                  "title": "STEP MATIC",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STING",
+                  "title": "STING",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STREET",
+                  "title": "STREET",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STUDENT",
+                  "title": "STUDENT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DUET",
+                  "title": "DUET",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GLAMOUR",
+                  "title": "GLAMOUR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPLENDOR",
+                  "title": "SPLENDOR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "XTREME",
+                  "title": "XTREME",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PLEASURE",
+                  "title": "PLEASURE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "E-SPRINT",
+                  "title": "E-SPRINT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MAESTRO",
+                  "title": "MAESTRO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "WINNER",
+                  "title": "WINNER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PASSION",
+                  "title": "PASSION",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MAESTRO EDGE",
+                  "title": "MAESTRO EDGE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "HERO HONDA",
+          "title": "HERO HONDA",
+          "imageUrl": "http://paytmimg.s3.amazonaws.com/games/ins/Hero%20Honda-2Wheeler.png",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "ACHIEVER",
+                  "title": "ACHIEVER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "AMBITION",
+                  "title": "AMBITION",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CBZ",
+                  "title": "CBZ",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CD",
+                  "title": "CD",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DAWN",
+                  "title": "DAWN",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GLAMOUR",
+                  "title": "GLAMOUR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "HUNK",
+                  "title": "HUNK",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "IGNITOR DISC",
+                  "title": "IGNITOR DISC",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "IGNITOR DRUM",
+                  "title": "IGNITOR DRUM",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "IMPULSE",
+                  "title": "IMPULSE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "JOY",
+                  "title": "JOY",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KARIZMA",
+                  "title": "KARIZMA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PASSION",
+                  "title": "PASSION",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PLEASURE",
+                  "title": "PLEASURE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SLEEK",
+                  "title": "SLEEK",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPLENDOR",
+                  "title": "SPLENDOR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STREET",
+                  "title": "STREET",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SUPER SPLENDOR",
+                  "title": "SUPER SPLENDOR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PASSION PRO",
+                  "title": "PASSION PRO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPLENDOR PRO",
+                  "title": "SPLENDOR PRO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "KTM",
+          "title": "KTM",
+          "imageUrl": "http://paytmimg.s3.amazonaws.com/games/ins/KTM%20-2Wheeler.png",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "DUKE 390",
+                  "title": "DUKE 390",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "200",
+                  "title": "200",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RC",
+                  "title": "RC",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DUKE",
+                  "title": "DUKE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "LML",
+          "title": "LML",
+          "imageUrl": "http://paytmimg.s3.amazonaws.com/games/ins/LML-2Wheeler.png",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "ADRENO",
+                  "title": "ADRENO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "BEAMER",
+                  "title": "BEAMER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CRD 100",
+                  "title": "CRD 100",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ENERGY",
+                  "title": "ENERGY",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FREEDOM",
+                  "title": "FREEDOM",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GRAPTOR",
+                  "title": "GRAPTOR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "NV",
+                  "title": "NV",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PRITHVI",
+                  "title": "PRITHVI",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PULSE",
+                  "title": "PULSE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SELECT",
+                  "title": "SELECT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SENSATION",
+                  "title": "SENSATION",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STAR",
+                  "title": "STAR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SUPREMO",
+                  "title": "SUPREMO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "TRENDY",
+                  "title": "TRENDY",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "VESPA",
+                  "title": "VESPA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STAR EURO",
+                  "title": "STAR EURO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "MAHINDRA",
+          "title": "MAHINDRA",
+          "imageUrl": "http://paytmimg.s3.amazonaws.com/games/uploadimagesandshareurl/Mahindra.png",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "STALIO",
+                  "title": "STALIO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CENTURO",
+                  "title": "CENTURO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PANTERO",
+                  "title": "PANTERO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GUSTO",
+                  "title": "GUSTO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MOJO",
+                  "title": "MOJO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MOJO (SALOON)",
+                  "title": "MOJO (SALOON)",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DURO",
+                  "title": "DURO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FLYTE",
+                  "title": "FLYTE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KINE",
+                  "title": "KINE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "NOVA",
+                  "title": "NOVA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RODEO",
+                  "title": "RODEO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "KINETIC",
+          "title": "KINETIC",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "AQUILA",
+                  "title": "AQUILA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "BOSS",
+                  "title": "BOSS",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CHALLENGER",
+                  "title": "CHALLENGER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CK 100",
+                  "title": "CK 100",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GF",
+                  "title": "GF",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "K4",
+                  "title": "K4",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KING",
+                  "title": "KING",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "LASER",
+                  "title": "LASER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "LUNA",
+                  "title": "LUNA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SAFARI",
+                  "title": "SAFARI",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STRYKER",
+                  "title": "STRYKER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "V2",
+                  "title": "V2",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "VELOCITY",
+                  "title": "VELOCITY",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "4S",
+                  "title": "4S",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "BLAZE",
+                  "title": "BLAZE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CAMPUS",
+                  "title": "CAMPUS",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FLYTE",
+                  "title": "FLYTE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KINE",
+                  "title": "KINE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KINETIC HONDA",
+                  "title": "KINETIC HONDA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MARVEL",
+                  "title": "MARVEL",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MECURY",
+                  "title": "MECURY",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "NOVA",
+                  "title": "NOVA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PRIDE",
+                  "title": "PRIDE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "S70",
+                  "title": "S70",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SCOOTER",
+                  "title": "SCOOTER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPARK",
+                  "title": "SPARK",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STYLE",
+                  "title": "STYLE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SWIFT",
+                  "title": "SWIFT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "Y2K",
+                  "title": "Y2K",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ZING",
+                  "title": "ZING",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ZOOM",
+                  "title": "ZOOM",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "R15 1CK5",
+          "title": "R15 1CK5",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "R15",
+                  "title": "R15",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "SUZUKI",
+          "title": "SUZUKI",
+          "imageUrl": "http://paytmimg.s3.amazonaws.com/games/ins/Suzuki-2Wheeler.png",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "GS 150 R",
+                  "title": "GS 150 R",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GSR",
+                  "title": "GSR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "HAYATE",
+                  "title": "HAYATE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "HEAT GT",
+                  "title": "HEAT GT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SLINGSHOT",
+                  "title": "SLINGSHOT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SWISH",
+                  "title": "SWISH",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ZEUS",
+                  "title": "ZEUS",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "B KING",
+                  "title": "B KING",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GIXXER",
+                  "title": "GIXXER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GSXR",
+                  "title": "GSXR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "VZR",
+                  "title": "VZR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GX",
+                  "title": "GX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "HAYABUSA",
+                  "title": "HAYABUSA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GSF 11250",
+                  "title": "GSF 11250",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "VZR1800R L1",
+                  "title": "VZR1800R L1",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ACCESS",
+                  "title": "ACCESS",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "LET'S",
+                  "title": "LET'S",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "INTRUDER",
+                  "title": "INTRUDER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "SZ 1PM6",
+          "title": "SZ 1PM6",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "SZ",
+                  "title": "SZ",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "ROYAL ENFIELD",
+          "title": "ROYAL ENFIELD",
+          "imageUrl": "http://paytmimg.s3.amazonaws.com/games/ins/Royal%20Enfield-2Wheeler.png",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "BULLET",
+                  "title": "BULLET",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CLASSIC",
+                  "title": "CLASSIC",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CONTINENTAL",
+                  "title": "CONTINENTAL",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ELECTRA",
+                  "title": "ELECTRA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STANDARD",
+                  "title": "STANDARD",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STANDARD 350 UCE",
+                  "title": "STANDARD 350 UCE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "TAURAS DIESEL",
+                  "title": "TAURAS DIESEL",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "THUNDERBIRD",
+                  "title": "THUNDERBIRD",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "HIMALAYAN",
+                  "title": "HIMALAYAN",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "KAAL RIXA",
+                  "title": "KAAL RIXA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "MONTO MOTORS",
+          "title": "MONTO MOTORS",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "COSMO BLASTER",
+                  "title": "COSMO BLASTER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "VIBGYOR",
+          "title": "VIBGYOR",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "HUNTER",
+                  "title": "HUNTER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GALLOP BASE",
+                  "title": "GALLOP BASE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "YAMAHA",
+          "title": "YAMAHA",
+          "imageUrl": "http://paytmimg.s3.amazonaws.com/games/ins/Yamaha-2Wheeler.png",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "ALBA",
+                  "title": "ALBA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ALPHA",
+                  "title": "ALPHA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CITY",
+                  "title": "CITY",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CRUX",
+                  "title": "CRUX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CRUX S",
+                  "title": "CRUX S",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ENTICER",
+                  "title": "ENTICER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FAZER",
+                  "title": "FAZER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FZ",
+                  "title": "FZ",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GLADIATOR",
+                  "title": "GLADIATOR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "LIBERO",
+                  "title": "LIBERO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "R15",
+                  "title": "R15",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RX",
+                  "title": "RX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SS",
+                  "title": "SS",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SZ",
+                  "title": "SZ",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "YBR",
+                  "title": "YBR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "YZF",
+                  "title": "YZF",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RAY",
+                  "title": "RAY",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ENTIZER",
+                  "title": "ENTIZER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SALUTO",
+                  "title": "SALUTO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MT 01",
+                  "title": "MT 01",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "R1",
+                  "title": "R1",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SC",
+                  "title": "SC",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RX I35",
+                  "title": "RX I35",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FASCINO",
+                  "title": "FASCINO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FZ1",
+                  "title": "FZ1",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MT 125",
+                  "title": "MT 125",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "YZR F",
+                  "title": "YZR F",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "YBR 110",
+                  "title": "YBR 110",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FZ 16",
+                  "title": "FZ 16",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "R 15 SINGLE SHEET",
+                  "title": "R 15 SINGLE SHEET",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FZ S",
+                  "title": "FZ S",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FZ16 FI",
+                  "title": "FZ16 FI",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FZ S FI LTD NEW",
+                  "title": "FZ S FI LTD NEW",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "R 15 NEW",
+                  "title": "R 15 NEW",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ALPHA OLD",
+                  "title": "ALPHA OLD",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RAY Z R DRUM",
+                  "title": "RAY Z R DRUM",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RAY Z R DISK",
+                  "title": "RAY Z R DISK",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SZRR V2",
+                  "title": "SZRR V2",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "R3 (2)",
+                  "title": "R3 (2)",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FZS",
+                  "title": "FZS",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RAJDOOT",
+                  "title": "RAJDOOT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FZ S FI",
+                  "title": "FZ S FI",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SALUTO DISK",
+                  "title": "SALUTO DISK",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SZS",
+                  "title": "SZS",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SZ RR",
+                  "title": "SZ RR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FAZER NEW",
+                  "title": "FAZER NEW",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ALPHA LTD- BLUE CORE",
+                  "title": "ALPHA LTD- BLUE CORE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ALPHA NEW",
+                  "title": "ALPHA NEW",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SALUTO RX",
+                  "title": "SALUTO RX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SALUTO DRUM",
+                  "title": "SALUTO DRUM",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FZ S FI LTD",
+                  "title": "FZ S FI LTD",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "R-3",
+                  "title": "R-3",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RAY ZR",
+                  "title": "RAY ZR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ALPHA BLUE CORE",
+                  "title": "ALPHA BLUE CORE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CYGNUS RAY Z",
+                  "title": "CYGNUS RAY Z",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RAYZ",
+                  "title": "RAYZ",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CYGNUS",
+                  "title": "CYGNUS",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RAY LE",
+                  "title": "RAY LE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RAY BLUE CORE",
+                  "title": "RAY BLUE CORE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RAY Z OLD",
+                  "title": "RAY Z OLD",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "RAY Z- BLUE CORE",
+                  "title": "RAY Z- BLUE CORE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "YEZDI",
+          "title": "YEZDI",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "STD",
+                  "title": "STD",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "YEZDI 250",
+                  "title": "YEZDI 250",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "TVS",
+          "title": "TVS",
+          "imageUrl": "http://paytmimg.s3.amazonaws.com/games/ins/TVS-2Wheeler.png",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "STAR",
+                  "title": "STAR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "XL 100",
+                  "title": "XL 100",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "APACHE",
+                  "title": "APACHE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CENTRA",
+                  "title": "CENTRA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "CHAMP",
+                  "title": "CHAMP",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DLX",
+                  "title": "DLX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FIERO",
+                  "title": "FIERO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "FLAME",
+                  "title": "FLAME",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "GSX",
+                  "title": "GSX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "JIVE",
+                  "title": "JIVE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MAX",
+                  "title": "MAX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MAX 100",
+                  "title": "MAX 100",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PHOENIX",
+                  "title": "PHOENIX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SAMURAI",
+                  "title": "SAMURAI",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SHAOLIN",
+                  "title": "SHAOLIN",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SHOGUN",
+                  "title": "SHOGUN",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPORT",
+                  "title": "SPORT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPOTS",
+                  "title": "SPOTS",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SUZUKI",
+                  "title": "SUZUKI",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "VICTOR",
+                  "title": "VICTOR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STAR CITY",
+                  "title": "STAR CITY",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPORT CVTI",
+                  "title": "SPORT CVTI",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPORT ES",
+                  "title": "SPORT ES",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STARDLX",
+                  "title": "STARDLX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STAR SPORT DLX",
+                  "title": "STAR SPORT DLX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SCOOTY PEP PLUS",
+                  "title": "SCOOTY PEP PLUS",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "JUPITER",
+                  "title": "JUPITER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPECTRA",
+                  "title": "SPECTRA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "WEGO",
+                  "title": "WEGO",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SCOOTY ZEST",
+                  "title": "SCOOTY ZEST",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STREAK FASHION",
+                  "title": "STREAK FASHION",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STREAK",
+                  "title": "STREAK",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "4TVS 50",
+                  "title": "4TVS 50",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STREAK REFRESH",
+                  "title": "STREAK REFRESH",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "NTORQ",
+                  "title": "NTORQ",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "TORO",
+          "title": "TORO",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "JAZZ",
+                  "title": "JAZZ",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "TRIUMPH",
+          "title": "TRIUMPH",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "BONNEVILLE T-100",
+                  "title": "BONNEVILLE T-100",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "THRUXTON BS111",
+                  "title": "THRUXTON BS111",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "TIGER",
+                  "title": "TIGER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DAYTONA 675",
+                  "title": "DAYTONA 675",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STREET TRIPLE",
+                  "title": "STREET TRIPLE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "THUNDERBIRD",
+                  "title": "THUNDERBIRD",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "THRUXTON",
+                  "title": "THRUXTON",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DAYTONA",
+                  "title": "DAYTONA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPEED",
+                  "title": "SPEED",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "ROCKET",
+                  "title": "ROCKET",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "TIGER EXPLORER",
+                  "title": "TIGER EXPLORER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPEED TRIPLE",
+                  "title": "SPEED TRIPLE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STREET TWIN",
+                  "title": "STREET TWIN",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "BONNEVILLE",
+                  "title": "BONNEVILLE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "STREET SCRAMBLER",
+                  "title": "STREET SCRAMBLER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "DUCATI",
+          "title": "DUCATI",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "MONSTER",
+                  "title": "MONSTER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "5 BK",
+                  "title": "5 BK",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MULTISTRADA 1200",
+                  "title": "MULTISTRADA 1200",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SCRAMBLER",
+                  "title": "SCRAMBLER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "DIAVEL",
+                  "title": "DIAVEL",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "1299 PANIGALE S",
+                  "title": "1299 PANIGALE S",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "MULTISTRADA",
+                  "title": "MULTISTRADA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "PANIGALE R",
+                  "title": "PANIGALE R",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "HYPERSTRADA",
+                  "title": "HYPERSTRADA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "848",
+                  "title": "848",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "959 PANIGALE",
+                  "title": "959 PANIGALE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "HYPERMOTARD",
+                  "title": "HYPERMOTARD",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "XDIAVEL",
+                  "title": "XDIAVEL",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "1299 PANIGALE",
+                  "title": "1299 PANIGALE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "EICHER",
+          "title": "EICHER",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "BULLET ELECTRA",
+                  "title": "BULLET ELECTRA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "BMW",
+          "title": "BMW",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "K 1600 GT GTL",
+                  "title": "K 1600 GT GTL",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "K 1600",
+                  "title": "K 1600",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "K1300",
+                  "title": "K1300",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "AG",
+                  "title": "AG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "HD",
+          "title": "HD",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "XL",
+                  "title": "XL",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "DSK MO",
+          "title": "DSK MO",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "BENELLI",
+                  "title": "BENELLI",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "KAWASAKI",
+          "title": "KAWASAKI",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "NINJA",
+                  "title": "NINJA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "Z1000",
+                  "title": "Z1000",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "VERSYS 650",
+                  "title": "VERSYS 650",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "'Z800",
+                  "title": "'Z800",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "VERSYS",
+                  "title": "VERSYS",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "NINJA ZX",
+                  "title": "NINJA ZX",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "Z650",
+                  "title": "Z650",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "Z900",
+                  "title": "Z900",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "Z250",
+                  "title": "Z250",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "VULCAN S",
+                  "title": "VULCAN S",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "UNITED MOTORS",
+          "title": "UNITED MOTORS",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "RENEGADE",
+                  "title": "RENEGADE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "DSK",
+          "title": "DSK",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "BENELLI",
+                  "title": "BENELLI",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "MOTO GUZZI",
+          "title": "MOTO GUZZI",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "CALIFORNIA",
+                  "title": "CALIFORNIA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "INDIAN MOTORCYCLE",
+          "title": "INDIAN MOTORCYCLE",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "CHIEF DARK HORSE",
+                  "title": "CHIEF DARK HORSE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SCOUT",
+                  "title": "SCOUT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SPRING",
+                  "title": "SPRING",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "SUZUKI",
+                  "title": "SUZUKI",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "PIAGGIO",
+          "title": "PIAGGIO",
+          "imageUrl": "http://paytmimg.s3.amazonaws.com/games/ins/Piaggio-2Wheeler.png",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "VESPA",
+                  "title": "VESPA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                },
+                {
+                  "value": "APRILIA",
+                  "title": "APRILIA",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "INDUS",
+          "title": "INDUS",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "YO SPARK",
+                  "title": "YO SPARK",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "AM AUTO",
+          "title": "AM AUTO",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "TWO WHEELER",
+                  "title": "TWO WHEELER",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "APRILLA",
+          "title": "APRILLA",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "SR",
+                  "title": "SR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "HYUNDAI",
+          "title": "HYUNDAI",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "GT",
+                  "title": "GT",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "APRILIA",
+          "title": "APRILIA",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "SR",
+                  "title": "SR",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "OKINAWA",
+          "title": "OKINAWA",
+          "imageUrl": "",
+          "sub_options": [
+            {
+              "title": "Select Model",
+              "config_key": "model",
+              "type": "list",
+              "options": [
+                {
+                  "value": "RIDGE",
+                  "title": "RIDGE",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=variant&insurance_type≈13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

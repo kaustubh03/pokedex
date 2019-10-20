@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "status": "success",
+    "message": "Success"
+  },
+  "data": {
+    "segments": [
+      {
+        "id": 1111,
+        "title": "Reconnect with previous customers",
+        "description": "Users who have not transacted with me since 15 days",
+        "default_selected": false
+      },
+      {
+        "id": 1112,
+        "title": "Upsell to existing customers",
+        "description": "Users who transacted for less that Rs. yyyy with me in last 30 days",
+        "default_selected": true
+      },
+      {
+        "id": 1113,
+        "title": "Active Paytm users",
+        "description": "Users with monthly transactions on Paytm > Rs.yyyy (yyyy = Rs. 300, 500, 750)",
+        "default_selected": false
+      },
+      {
+        "id": 1114,
+        "title": "Target new customers",
+        "description": "Users who shop on similar merchant but not me",
+        "default_selected": false
+      }
+    ]
+  }
+}

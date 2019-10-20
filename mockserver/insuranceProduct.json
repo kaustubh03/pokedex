@@ -1,0 +1,21 @@
+{
+  "title": "Select insurance type",
+  "products": [
+    {
+      "title": "Two Wheeler Insurance",
+      "insurance_type": 13,
+      "description": "",
+      "logo": "http://paytmimg.s3-ap-southeast-1.amazonaws.com/games/Insurance/uploadinglogosforinsurance/2_wheeler.png",
+      "url": "",
+      "status": "active"
+    },
+    {
+      "title": "Car Insurance",
+      "insurance_type": 9,
+      "description": "",
+      "logo": "http://paytmimg.s3-ap-southeast-1.amazonaws.com/games/Insurance/uploadinglogosforinsurance/car.png",
+      "url": "",
+      "status": "active"
+    }
+  ]
+}

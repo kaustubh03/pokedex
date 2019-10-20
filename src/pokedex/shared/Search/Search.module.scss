@@ -1,0 +1,56 @@
+@import '../../commonstyles/variables.scss';
+
+.container {
+  display: flex;
+  width:65%;
+  margin-top: 16px;
+  .searchElement{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    input{
+      width: 80%;
+      padding: 20px;
+      border-radius: 4px;
+      border: 1px solid #eaeaea;
+      @include fontStyle(23px, #9b9b9b, 700)
+    }
+  }
+  .titleContainer {
+    display: flex;
+    flex: 3;
+    span.title {
+      @include fontStyle(21px, $Black, 800);
+    }
+  }
+  .loaderParent {
+    padding-top: 32px;
+    display: flex;
+  }
+  .successImg {
+    display: flex;
+    flex: 1;
+    padding-left: 60px;
+
+    img {
+      width: 42px;
+      height: 42px;
+    }
+    img.errorImg {
+      border: solid 1px #f00000;
+      border-radius: 20px;
+      width: 35px;
+      height: 35px;
+    }
+  }
+}
+
+.flexClass {
+  display: flex;
+  word-break: break-word;
+}
+.ButtonParent {
+  position: relative;
+  bottom: 50px;
+  padding: 0px 24px;
+}

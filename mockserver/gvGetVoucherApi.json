@@ -1,0 +1,46 @@
+{
+  "vouchers": [
+    {
+      "pid": 1200731133,
+      "kybid": "abc",
+      "pgmid": "abcde",
+      "extendCount": 1,
+      "isExtendable": true,
+      "expiry": "3 Months",
+      "logoUrl": "abcde",
+      "merchantName": "abcde",
+      "amount": 1,
+      "status": 1,
+      "validTill": "20-11-2019"
+    },
+    {
+      "pid": 1200731134,
+      "kybid": "abc",
+      "pgmid": "abcde1",
+      "extendCount": 3,
+      "isExtendable": false,
+      "expiry": "3 Months",
+      "logoUrl": "abcde",
+      "merchantName": "abcde1",
+      "amount": 5000,
+      "status": 1,
+      "validTill": "20-11-2019"
+    },
+    {
+      "pid": 1200731135,
+      "kybid": "abc",
+      "pgmid": "abcde21",
+      "extendCount": 3,
+      "isExtendable": false,
+      "expiry": "3 Months",
+      "logoUrl": "abcde",
+      "merchantName": "abcde12",
+      "amount": 50013,
+      "status": 1,
+      "validTill": "20-11-2019"
+    }
+  ],
+  "count": 3,
+  "errorMessage": null,
+  "status": "SUCCESS"
+}

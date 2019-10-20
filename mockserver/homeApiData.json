@@ -1,0 +1,213 @@
+{
+  "meta": {},
+  "data": {
+    "premium": {
+      "active_from": null,
+      "description": null,
+      "expires_at": null,
+      "header": null,
+      "is_subscribed": "false",
+      "remaining_offer_count": null,
+      "status": null,
+      "to_show": null,
+      "subscribed_id": null,
+      "subscription_amount": null,
+      "subscription_plans": [
+        {
+          "amount": 99,
+          "benefits": [
+            {
+              "description": "You can send 2000 notification & 500 SMS to customers around your shop, 2 times a month",
+              "image_url": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-subscription/assured-reach.png",
+              "name": "Assured Reach"
+            },
+            {
+              "description": "Target customers around you who shop with your customers but not you",
+              "image_url": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-subscription/connect.png",
+              "name": "Connect with new customers around me"
+            }
+          ],
+          "cycle": "month",
+          "description": "Targeted campaign for active paytm users",
+          "id": 1,
+          "max_offer_count": 2,
+          "name": "Premium Campaign"
+        },
+        {
+          "amount": 249,
+          "benefits": [
+            {
+              "description": "You can send 2000 notification & 1000 SMS to customers around your shop, 8 times a month",
+              "image_url": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-subscription/assured-reach.png",
+              "name": "Assured Reach"
+            },
+            {
+              "description": "Target customers around you who shop with your customers but not you",
+              "image_url": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-subscription/connect.png",
+              "name": "Connect with new customers around me"
+            },
+            {
+              "description": "Send special offers to your existing customers to bring them back to your store",
+              "image_url": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-subscription/reach-out.png",
+              "name": "Reach out to your existing customers"
+            }
+          ],
+          "cycle": "month",
+          "description": "Targeted campaign for active paytm users",
+          "id": 2,
+          "max_offer_count": 8,
+          "name": "Exclusive Campaign"
+        }
+      ]
+    },
+    "visitorsCount": 48,
+    "businessName": "FoodOnline",
+    "contractId": "A0jr8uxfgd595",
+    "postCount": 2,
+    "feeds": [
+      {
+        "contractId": "A0jr8uxfgd595",
+        "type": "Offer",
+        "title": "Bx",
+        "description": "Shhd shh shud sadhus",
+        "imageType": "FeedImage",
+        "dmsId": "channels-feed/847e4018-3fbe-46d4-aed8-2b58fb891e44.jpeg",
+        "likeCount": 0,
+        "shareCount": 0,
+        "feedId": "F0tts7dersfn565",
+        "shareUrl": "http://m.p-y.tm/merchant?cid=A0jr8uxfgd595",
+        "activeFrom": "2019-12-19 00:00:00",
+        "viewCount": 7,
+        "isActive": 1,
+        "is_premium": "true",
+        "tip": "Strong offer description can motivate customers to buy.",
+        "status": "Scheduled",
+        "expiresAt": "2019-12-27 00:00:00",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/847e4018-3fbe-46d4-aed8-2b58fb891e44.jpeg",
+        "isLike": false
+      },
+      {
+        "contractId": "A0jr8uxfgd595",
+        "type": "Offer",
+        "title": "Get Up To Rs 250 Cashback",
+        "description": "Get up to Rs. 250 cashback on 2nd and 4th transaction where minimum amount per transaction should be Rs. 500. You need to activate the offer in order to be eligible for cashback. After your first eligible transaction you will get a push notification to activate the offer. ",
+        "imageType": "FeedImage",
+        "dmsId": "channels-feed/847e4018-3fbe-46d4-aed8-2b58fb891e44.jpeg",
+        "likeCount": 0,
+        "shareCount": 0,
+        "feedId": "F0tt5dgvkhxt19s9",
+        "shareUrl": "http://m.p-y.tm/merchant?cid=A0jr8uxfgd595",
+        "activeFrom": "2019-03-27 00:00:00",
+        "viewCount": 0,
+        "isActive": 1,
+        "is_premium": "true",
+        "status": "Under Review",
+        "expiresAt": "2019-03-28 00:00:00",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/847e4018-3fbe-46d4-aed8-2b58fb891e44.jpeg",
+        "isLike": false
+      },
+      {
+        "contractId": "A0jr8uxfgd595",
+        "type": "Offer",
+        "title": "Get Up To Rs 250 Cashback",
+        "description": "Get up to Rs. 250 cashback on 2nd and 4th transaction where minimum amount per transaction should be Rs. 500. You need to activate the offer in order to be eligible for cashback. After your first eligible transaction you will get a push notification to activate the offer. ",
+        "imageType": "FeedImage",
+        "dmsId": "channels-feed/847e4018-3fbe-46d4-aed8-2b58fb891e44.jpeg",
+        "likeCount": 0,
+        "shareCount": 0,
+        "feedId": "F0tt5dgvkhxt1939",
+        "shareUrl": "http://m.p-y.tm/merchant?cid=A0jr8uxfgd595",
+        "activeFrom": "2019-03-27 00:00:00",
+        "viewCount": 0,
+        "isActive": 1,
+        "status": "Under Review",
+        "expiresAt": "2019-03-28 00:00:00",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/847e4018-3fbe-46d4-aed8-2b58fb891e44.jpeg",
+        "isLike": false
+      },
+      {
+        "contractId": "A0jr8uxfgd595",
+        "type": "Offer",
+        "title": "Get Up To Rs 250 Cashback",
+        "description": "Get up to Rs. 250 cashback on 2nd and 4th transaction where minimum amount per transaction should be Rs. 500. You need to activate the offer in order to be eligible for cashback. After your first eligible transaction you will get a push notification to activate the offer. ",
+        "imageType": "FeedImage",
+        "dmsId": "channels-feed/847e4018-3fbe-46d4-aed8-2b58fb891e44.jpeg",
+        "likeCount": 0,
+        "shareCount": 0,
+        "feedId": "F0tt5dgvkhxt18799",
+        "shareUrl": "http://m.p-y.tm/merchant?cid=A0jr8uxfgd595",
+        "activeFrom": "2019-03-27 00:00:00",
+        "viewCount": 0,
+        "isActive": 1,
+        "status": "Under Review",
+        "expiresAt": "2019-03-28 00:00:00",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/847e4018-3fbe-46d4-aed8-2b58fb891e44.jpeg",
+        "isLike": false
+      },
+      {
+        "contractId": "A0jr8uxfgd595",
+        "type": "Offer",
+        "title": "Get Up To Rs 250 Cashback",
+        "description": "Get up to Rs. 250 cashback on 2nd and 4th transaction where minimum amount per transaction should be Rs. 500. You need to activate the offer in order to be eligible for cashback. After your first eligible transaction you will get a push notification to activate the offer. ",
+        "imageType": "FeedImage",
+        "dmsId": "channels-feed/847e4018-3fbe-46d4-aed8-2b58fb891e44.jpeg",
+        "likeCount": 0,
+        "shareCount": 0,
+        "feedId": "F0tt5dgvkhxt1c99",
+        "shareUrl": "http://m.p-y.tm/merchant?cid=A0jr8uxfgd595",
+        "activeFrom": "2019-03-27 00:00:00",
+        "viewCount": 0,
+        "isActive": 1,
+        "status": "Under Review",
+        "expiresAt": "2019-03-28 00:00:00",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/847e4018-3fbe-46d4-aed8-2b58fb891e44.jpeg",
+        "isLike": false
+      },
+      {
+        "contractId": "A0jr8uxfgd595",
+        "type": "Offer",
+        "title": "Get Up To Rs 250 Cashback",
+        "description": "Get up to Rs. 250 cashback on 2nd and 4th transaction where minimum amount per transaction should be Rs. 500. You need to activate the offer in order to be eligible for cashback. After your first eligible transaction you will get a push notification to activate the offer. ",
+        "imageType": "FeedImage",
+        "dmsId": "channels-feed/847e4018-3fbe-46d4-aed8-2b58fb891e44.jpeg",
+        "likeCount": 0,
+        "shareCount": 0,
+        "feedId": "F0tt5dgvkhxt19g9",
+        "shareUrl": "http://m.p-y.tm/merchant?cid=A0jr8uxfgd595",
+        "activeFrom": "2019-03-27 00:00:00",
+        "viewCount": 0,
+        "isActive": 1,
+        "status": "Under Review",
+        "expiresAt": "2019-03-28 00:00:00",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/847e4018-3fbe-46d4-aed8-2b58fb891e44.jpeg",
+        "isLike": false
+      }
+    ],
+    "filters": [
+      "All",
+      "Under Review",
+      "Live",
+      "Scheduled",
+      "Deactivated",
+      "Expired",
+      "Rejected"
+    ],
+    "follow": "Buy from at Fc-6 Film City, Gautam Buddha Nagar http://m.p-y.tm/merchant?cid=A0jr8uxfgd595 Scan QR and pay with Paytm app",
+    "logoUrl": "http://cif-staging.paytm.com/get/image/DM249808179791.jpg",
+    "plots": {
+      "visitors": {
+        "meta": {
+          "title": null,
+          "xaxisName": "date",
+          "yaxisName": "visitors count in K"
+        },
+        "data": [
+          {
+            "x": "2019-03-27",
+            "y": [48]
+          }
+        ]
+      }
+    }
+  }
+}

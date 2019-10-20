@@ -1,0 +1,40 @@
+{
+  "amountDetails": {
+    "amount": [
+      {
+        "value": "1000",
+        "currency": "INR",
+        "selected": "true"
+      },
+      {
+        "value": "2500",
+        "currency": "INR",
+        "selected": "false"
+      },
+      {
+        "value": "5000",
+        "currency": "INR",
+        "selected": "false"
+      },
+      {
+        "value": "10000",
+        "currency": "INR",
+        "selected": "false"
+      }
+    ]
+  },
+  "expiryDetails": {
+    "expiry": [
+      {
+        "value": "6 Months",
+        "selected": "true"
+      },
+      {
+        "value": "1 Year",
+        "selected": "false"
+      }
+    ]
+  },
+  "startDate": "2019-07-09T12:14:54.596+05:30",
+  "endDate": "2021-07-09T12:14:54.566+05:30"
+}

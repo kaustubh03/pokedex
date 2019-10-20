@@ -1,0 +1,23 @@
+{
+  "firstName": {
+    "value": "",
+    "isEditable": true
+  },
+  "lastName": {
+    "value": "",
+    "isEditable": true
+  },
+  "mobile": {
+    "value": "9812178343",
+    "isEditable": false
+  },
+  "emailId": {
+    "value": "",
+    "isEditable": true
+  },
+  "pan": {
+    "value": "234523452345",
+    "isEditable": false
+  },
+  "nextUrl": ""
+}

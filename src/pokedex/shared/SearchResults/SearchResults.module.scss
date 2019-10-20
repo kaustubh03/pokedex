@@ -1,0 +1,26 @@
+@import '../../commonstyles/variables.scss';
+
+.container {
+  display: flex;
+  width:100%;
+  justify-content:center;
+  margin-top: 16px;
+  .resultsParent{
+    width:50%;
+    .results{
+      padding: 20px;
+      border: 1px solid #eaeaea;
+      border-radius: 2px;
+      background: #fbfbfb;
+      text-transform: capitalize;
+      letter-spacing: 0.8px;
+      @include fontStyle(16px,#5d5d5d, 700);
+      cursor: pointer;
+    }
+    .results:hover{
+      background: $Blue;
+      color:$White;
+    }
+  }
+  
+}

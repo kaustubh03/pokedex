@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "status": "success",
+    "statusCode": "PFB-OFFER-100"
+  },
+  "data": {
+    "templates": [
+      {
+        "dmsId": "a7f1e85c-1b85-47b6-a9c7-c7fe0f2ba8d2",
+        "offerDescription": "50% off on all clothing",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/a7f1e85c-1b85-47b6-a9c7-c7fe0f2ba8d2.jpeg",
+        "templateId": "1A",
+        "alignment": "right",
+        "offerHeadline": "Sale 50%",
+        "couponCode": ""
+      },
+      {
+        "dmsId": "847e4018-3fbe-46d4-aed8-2b58fb891e44",
+        "offerDescription": "50% off on all clothing",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/847e4018-3fbe-46d4-aed8-2b58fb891e44.jpeg",
+        "templateId": "1",
+        "alignment": "right",
+        "offerHeadline": "Sale 50%",
+        "couponCode": ""
+      },
+      {
+        "dmsId": "bc0771b2-b318-4f18-94b3-5426d0954139",
+        "offerDescription": "50% off on all clothing",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/bc0771b2-b318-4f18-94b3-5426d0954139.jpeg",
+        "templateId": "2",
+        "alignment": "right",
+        "offerHeadline": "Sale 50%",
+        "couponCode": ""
+      },
+      {
+        "dmsId": "77f86d1f-8a43-4087-80b0-3af813b959ca",
+        "offerDescription": "50% off on all clothing",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/77f86d1f-8a43-4087-80b0-3af813b959ca.jpeg",
+        "templateId": "3",
+        "alignment": "right",
+        "offerHeadline": "Sale 50%",
+        "couponCode": ""
+      },
+      {
+        "dmsId": "fb8f0ddd-e3b6-4075-9eee-bf6ec9a6c363",
+        "offerDescription": "50% off on all clothing",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/fb8f0ddd-e3b6-4075-9eee-bf6ec9a6c363.jpeg",
+        "templateId": "9A",
+        "alignment": "right",
+        "offerHeadline": "Sale 50%",
+        "couponCode": ""
+      },
+      {
+        "dmsId": "1c14858c-989b-4c13-88c6-13d4ea12e992",
+        "offerDescription": "50% off on all clothing",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/1c14858c-989b-4c13-88c6-13d4ea12e992.jpeg",
+        "templateId": "8A",
+        "alignment": "right",
+        "offerHeadline": "Sale 50%",
+        "couponCode": ""
+      },
+      {
+        "dmsId": "f9aa1c5e-df92-4fd2-9c74-d187839137a8",
+        "offerDescription": "50% off on all clothing",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/f9aa1c5e-df92-4fd2-9c74-d187839137a8.jpeg",
+        "templateId": "7A",
+        "alignment": "right",
+        "offerHeadline": "Sale 50%",
+        "couponCode": ""
+      },
+      {
+        "dmsId": "4f153bb0-86b5-4d2d-961b-3c695092dc56",
+        "offerDescription": "50% off on all clothing",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/4f153bb0-86b5-4d2d-961b-3c695092dc56.jpeg",
+        "templateId": "6A",
+        "alignment": "right",
+        "offerHeadline": "Sale 50%",
+        "couponCode": ""
+      },
+      {
+        "dmsId": "9b975e4f-5a84-49cb-a5f4-cbf97b5110ce",
+        "offerDescription": "50% off on all clothing",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/9b975e4f-5a84-49cb-a5f4-cbf97b5110ce.jpeg",
+        "templateId": "5A",
+        "alignment": "right",
+        "offerHeadline": "Sale 50%",
+        "couponCode": ""
+      },
+      {
+        "dmsId": "0194084a-0e69-49db-a42a-800aca2abdd8",
+        "offerDescription": "50% off on all clothing",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/0194084a-0e69-49db-a42a-800aca2abdd8.jpeg",
+        "templateId": "3A",
+        "alignment": "right",
+        "offerHeadline": "Sale 50%",
+        "couponCode": ""
+      },
+      {
+        "dmsId": "a293e9b3-06fb-4063-a798-6b68c15a555f",
+        "offerDescription": "50% off on all clothing",
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/channels-images-nonprod-origin.paytm.com/channels-feed/a293e9b3-06fb-4063-a798-6b68c15a555f.jpeg",
+        "templateId": "2A",
+        "alignment": "right",
+        "offerHeadline": "Sale 50%",
+        "couponCode": ""
+      }
+    ]
+  }
+}

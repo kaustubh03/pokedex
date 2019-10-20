@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+
+abort() {
+  echo
+  echo "  $@" 1>&2
+  echo
+  exit 1
+}
+
+log() {
+  echo "  ○ $@"
+}
+
+
+PROJDIR=../
+CONFIGDIR=cfg
+
+cd $PROJDIR
+
+## Copy init script to /etc/init
+sudo cp $CONFIGDIR/init/market-frontend.conf /etc/init/ || abort 'failed to copy init script'
+
+## Copy nginx config, enable and reload
+sudo rm -f /etc/nginx/sites-enabled/shop.paytm.com
+
+sudo cp $CONFIGDIR/nginx/shop.paytm.com /etc/nginx/sites-available/ || abort 'failed to copy nginx config'
+sudo ln -s /etc/nginx/sites-available/shop.paytm.com /etc/nginx/sites-enabled/
+
+sudo nginx -t || abort 'Nginx: Configuration Test Failed'
+sudo service nginx start
+sudo nginx -s reload
+
+## Start the service
+sudo start market-frontend
+
+## Verify that node is up, by connecting to it on the proxy port

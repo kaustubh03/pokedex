@@ -1,0 +1,508 @@
+{
+  "header": "Vehicle Details",
+  "actionList": [
+    {
+      "title": "Select Variant",
+      "config_key": "variant",
+      "type": "list",
+      "noSplit": false,
+      "options": [
+        {
+          "value": "LDI NEW",
+          "title": "LDI NEW",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Diesel",
+                  "value": "Diesel",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "LXI NEW",
+          "title": "LXI NEW",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Petrol",
+                  "value": "Petrol",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "VDI NEW",
+          "title": "VDI NEW",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Diesel",
+                  "value": "Diesel",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "VXI GLAM",
+          "title": "VXI GLAM",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Petrol",
+                  "value": "Petrol",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "ZXI ABS",
+          "title": "ZXI ABS",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Petrol",
+                  "value": "Petrol",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "LDI",
+          "title": "LDI",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Diesel",
+                  "value": "Diesel",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "LXI",
+          "title": "LXI",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Petrol",
+                  "value": "Petrol",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "VXI NEW",
+          "title": "VXI NEW",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Petrol",
+                  "value": "Petrol",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "ZDI NEW",
+          "title": "ZDI NEW",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Diesel",
+                  "value": "Diesel",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "ZXI NEW",
+          "title": "ZXI NEW",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Petrol",
+                  "value": "Petrol",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "VDI",
+          "title": "VDI",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Diesel",
+                  "value": "Diesel",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "VDI ABS",
+          "title": "VDI ABS",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Diesel",
+                  "value": "Diesel",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "VXI",
+          "title": "VXI",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Petrol",
+                  "value": "Petrol",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "VXI ABS",
+          "title": "VXI ABS",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Petrol",
+                  "value": "Petrol",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "ZXI",
+          "title": "ZXI",
+          "sub_options": [
+            {
+              "title": "Fuel Type",
+              "config_key": "fuelType",
+              "type": "list",
+              "options": [
+                {
+                  "title": "Petrol",
+                  "value": "Petrol",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                },
+                {
+                  "title": "External CNG",
+                  "value": "External CNG",
+                  "sub_options": [
+                    {
+                      "getSuboptionsFromUrl": true,
+                      "nextUrl": "protection/v1/public/pos/getproductdetails?nextOption=register&insurance_type≈9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

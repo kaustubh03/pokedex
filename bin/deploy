@@ -1,0 +1,51 @@
+#!/usr/bin/env bash
+#
+
+ENV=$1
+
+abort() {
+  echo
+  echo "  $@" 1>&2
+  echo
+  exit 1
+}
+
+log() {
+  echo "  ○ $@"
+}
+
+#create symlink for logs
+if test -e logs ; then
+  log 'logs dir is present'
+else
+  ln -sf ../shared/logs
+fi
+
+log "creating release file"
+echo "module.exports = '$(git describe)'" > release
+
+#echo "Running npm install in $PWD"
+yarn install
+#rc=$?
+#if [[ $rc != 0 ]] ; then
+#    abort 'NPM install failed ' $rc
+#fi
+
+yarn build
+
+log 'Post deploy script has been executed successfully.'
+
+if [ ! -f ./logs/extranet.error.log ]; then
+  touch ./logs/extranet.error.log
+fi
+
+#bash +x ./tools/aws.sh
+
+#log 'Touching restart file'
+touch public/system/restart
+# wait for a max of 1 minute - this is the time to restart
+sleep 15
+
+# remove the file if it still exists
+#rm -f public/system/maintenance.html
+log 'Deployment complete'

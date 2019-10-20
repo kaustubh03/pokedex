@@ -1,0 +1,37 @@
+@import '../../commonstyles/variables.scss';
+
+.offlineScreen {
+  text-align: center;
+  height: 100%;
+
+  .genericError {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+  }
+
+  img {
+    width: 50%;
+    margin: 50px auto;
+    display: block;
+  }
+
+  h3 {
+    @include fontStyle(20px, $TextCol);
+    margin: 20px 0px;
+  }
+
+  h5 {
+    @include fontStyle(14px, $subTextCol, 400);
+    padding: 2px;
+  }
+
+  button {
+    @include fontStyle(14px, $Blue1, 500);
+    border: 1px solid $Blue1;
+    padding: 10px 30px;
+    background: white;
+    margin: 20px auto;
+  }
+}

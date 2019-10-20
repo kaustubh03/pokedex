@@ -1,0 +1,25 @@
+@import '../../commonstyles/variables.scss';
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .homeBanner{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.containerPage{
+  padding: 20px;
+  background: rgba(1, 140, 239, 0.95);
+  display: flex;
+  justify-content:flex-start;
+  align-items: flex-start;
+  padding-left:16px;
+  img{
+    width:250px;
+  }
+}

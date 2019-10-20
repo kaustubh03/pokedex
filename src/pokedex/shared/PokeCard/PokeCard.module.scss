@@ -1,0 +1,90 @@
+@import '../../commonstyles/variables.scss';
+
+.container {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  margin-top: 50px;
+  justify-content: center;
+  height: 500px;
+  .pokeCardParent{
+    border-radius:5px;
+    height: auto;
+    width: 400px;
+    .pokeCardBack{
+      height: 500px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+    }
+    .header{
+      padding: 10px;
+      display: flex;
+      text-transform: capitalize;
+      span:first-child{
+        display: flex;
+        flex:1;
+      }
+      border-bottom: 1px solid #fafafa;
+    }
+    .pokemonImage{
+      padding:10px;
+    }
+    .footer{
+      display: flex;
+      justify-content: center;
+      padding: 10px;
+      flex-wrap:wrap;
+      border-top: 1px solid #fafafa;
+    }
+    .statTitle{
+      padding: 5px;
+      text-transform: capitalize;
+      color: #fff;
+      font-weight: 800;
+      letter-spacing: 0.8px;
+    }
+  }
+  .blue{
+    background: #6db3f2; /* Old browsers */
+    background: -moz-linear-gradient(top, #6db3f2 0%, #54a3ee 50%, #3690f0 51%, #1e69de 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #6db3f2 0%,#54a3ee 50%,#3690f0 51%,#1e69de 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #6db3f2 0%,#54a3ee 50%,#3690f0 51%,#1e69de 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    .header span{
+      @include fontStyle(18px, $White, 600);
+      letter-spacing: 0.8px;
+    }
+  }
+  .red{
+    background: #f0b7a1; /* Old browsers */
+    background: -moz-linear-gradient(top, #f0b7a1 0%, #8c3310 50%, #752201 51%, #bf6e4e 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%);
+
+    .header span{
+        @include fontStyle(18px, $White, 600);
+        letter-spacing: 0.8px;
+      }
+  }
+  .black{
+    background: #959595; /* Old browsers */
+    background: -moz-linear-gradient(top, #959595 0%, #0d0d0d 46%, #010101 50%, #0a0a0a 53%, #4e4e4e 76%, #383838 87%, #1b1b1b 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #959595 0%,#0d0d0d 46%,#010101 50%,#0a0a0a 53%,#4e4e4e 76%,#383838 87%,#1b1b1b 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #959595 0%,#0d0d0d 46%,#010101 50%,#0a0a0a 53%,#4e4e4e 76%,#383838 87%,#1b1b1b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    .header span{
+      @include fontStyle(18px, $White, 600);
+      letter-spacing: 0.8px;
+    }
+  }
+  .orange{
+    background: #feccb1; /* Old browsers */
+    background: -moz-linear-gradient(top, #feccb1 0%, #f17432 50%, #ea5507 51%, #fb955e 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #feccb1 0%,#f17432 50%,#ea5507 51%,#fb955e 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #feccb1 0%,#f17432 50%,#ea5507 51%,#fb955e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    .header span{
+      @include fontStyle(18px, $White, 600);
+      letter-spacing: 0.8px;
+    }
+  }
+}

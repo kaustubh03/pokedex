@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "statusCode": "ABC-123",
+    "status": "success",
+    "failureReason": "failure message"
+  },
+  "data": {
+    "feedId": "F0489hshdx"
+  }
+}

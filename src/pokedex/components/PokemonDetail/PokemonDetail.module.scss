@@ -1,0 +1,65 @@
+@import '../../commonstyles/variables.scss';
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .homeBanner{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.containerPage{
+  padding: 20px;
+  background: rgba(1, 140, 239, 0.95);
+  display: flex;
+  padding-left:16px;
+  img{
+    width:250px;
+  }
+  justify-content: center;
+  align-items: center;
+}
+.detailParent{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  .pokemonImage{
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    img{
+      width:400px;
+    }
+  }
+  .statsParent{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    padding-top: 50px;
+  }
+  .statSection{
+    display: flex;
+    flex-direction: column;
+    .sectionTitle{
+      @include fontStyle(25px,$DBlack, 700);
+      border-bottom: 1px solid #eaeaea;
+      text-transform: capitalize;
+    }
+    .sectionItem{
+      @include fontStyle(18px,$DBlack, 500);
+      text-transform: capitalize;
+      padding-top: 8px;
+    }
+  }
+
+}
+.loaderContainer{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height:100vh;
+}
