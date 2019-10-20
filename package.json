@@ -58,7 +58,9 @@
     "eject": "react-scripts eject",
     "server": "NODE_ENV=production node server/.js",
     "server:local": "NODE_ENV=production node $NODE_DEBUG_OPTION server/bootstrap.js",
-    "analyze": "source-map-explorer build/static/js/main.*"
+    "analyze": "source-map-explorer build/static/js/main.*",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
