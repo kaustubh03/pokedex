@@ -2,7 +2,7 @@
   "name": "boilerplate-react",
   "version": "0.1.0",
   "private": false,
-  "homepage": "./",
+  "homepage": "https://kaustubh03.github.io/pokedex/",
   "husky": {
     "hooks": {
       "pre-commit": "pretty-quick —-single-quote --staged"
