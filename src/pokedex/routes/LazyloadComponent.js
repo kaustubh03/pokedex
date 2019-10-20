@@ -1,5 +1,6 @@
 import React from 'react';
 import DotLoader from '../shared/DotLoader';
+import s from './LazyloadComponent.module.scss';
 
 export default class LazyloadComponent extends React.PureComponent {
   state = {
@@ -18,6 +19,10 @@ export default class LazyloadComponent extends React.PureComponent {
     if (this.state.renderComponent) {
       return <this.state.renderComponent {...this.props} />;
     }
-    return <DotLoader />;
+    return (
+      <div className={s.loaderContainer}>
+        <DotLoader />
+      </div>
+    );
   }
 }

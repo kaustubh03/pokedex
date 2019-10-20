@@ -1,6 +1,5 @@
 import { PokedexBundle } from "./pokedex/exportBundle";
 
-/* global DEV_MODE_APP */
 
 export const getModuleName = () => {
   console.log('--1');
@@ -8,7 +7,7 @@ export const getModuleName = () => {
   const feature = params.get('feature') || 'pokedex';
 
   //Dev & production switching
-  const switchMe = DEV_MODE_APP[3] ? DEV_MODE_APP[3] : feature;
+  const switchMe = feature;
   switch (switchMe) {
     case 'pokedex':
       return PokedexBundle(switchMe);

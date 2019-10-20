@@ -23,7 +23,7 @@ const getVersionName = () => {
 
 const publicPath =
   process.argv[4] === 'staging'
-    ? '/youdomainname.com/' + getVersionName() + '/'
+    ? '/' + getVersionName() + '/'
     : '/' + getVersionName() + '/';
 
 module.exports = function(config) {

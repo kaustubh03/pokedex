@@ -2,7 +2,6 @@
   "name": "boilerplate-react",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://kaustubh03.github.io/pokedex/",
   "husky": {
     "hooks": {
       "pre-commit": "pretty-quick —-single-quote --staged"
@@ -51,9 +50,9 @@
     "window-or-global": "^1.0.1"
   },
   "scripts": {
-    "start": "PORT=8953 node scripts/customized-config start",
+    "start": "PORT=8953 react-scripts start",
     "pretty": "prettier — single-quote — write",
-    "build": "node scripts/customized-config build",
+    "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "server": "NODE_ENV=production node server/.js",
