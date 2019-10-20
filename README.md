@@ -8,6 +8,11 @@ You can search for your pokemon and pokedex will provide details for your favour
 - **NodeJs Server**
 
 Requires Node Version >= 8.12
+**To start Development Server**
+
+```
+npm start pokedex
+```
 
 **For deployments Travis CI is used**
 ## To configure Travis CI
@@ -85,7 +90,7 @@ Just install dependencies, build the app and run the express server:
 yarn install
 
 //development
-yarn start
+yarn start module_name
 
 //production
 yarn run build
