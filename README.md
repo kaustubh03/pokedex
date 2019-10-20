@@ -12,7 +12,7 @@ Requires Node Version >= 8.12
 **For deployments Travis CI is used**
 ## To configure Travis CI
 - Create an account on Travis or Login with your existing account or Github (ref - https://travis-ci.org)
-- Create travis.yml in root of your project.
+- Create .travis.yml in root of your project.
     ``` 
     language: node_js
     node_js:
@@ -32,7 +32,7 @@ Requires Node Version >= 8.12
 - Get Access token from github (ref - https://github.com/settings/tokens/new)
 - Generate and Copy the token.
 - Go to Settings and under Environment variables subheading add the name for your token (for example - github_token) and paste the value.
-- Add Deployment Script to travis.yml with environment variable $github_token
+- Add Deployment Script to .travis.yml with environment variable $github_token
     ```
         language: node_js
         node_js:
