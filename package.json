@@ -22,7 +22,7 @@
     "ignore-styles": "^5.0.1",
     "localforage": "^1.7.3",
     "node-cache": "^4.2.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.7",
     "prop-types": "^15.6.2",
     "ramda": "^0.26.0",
     "react": "^16.8.0",
