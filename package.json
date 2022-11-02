@@ -76,6 +76,6 @@
     "pretty-quick": "^1.11.1",
     "rewire": "^4.0.1",
     "source-map-explorer": "^1.6.0",
-    "webfonts-loader": "^4.1.0"
+    "webfonts-loader": "^7.5.2"
   }
 }
